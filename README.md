@@ -1,8 +1,8 @@
 #Actividad Lectura de eje X - eje Y
 
-## Objetivo
+## Destiny 3 locooo
 
-Aprendizaje
+
 
 ---
 
