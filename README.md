@@ -105,3 +105,18 @@ Cada estudiante debe:
 * El trabajo final depende de cada estudiante y de cómo adapte el ejercicio.
 
 ---
+## Mi versión final
+
+### Página principal
+
+![Inicio](capturas/inicio.png)
+
+### Radar XY
+
+![Radar](capturas/radar.png)
+
+### Joystick XY
+
+![Joystick](capturas/joystick.png)
+
+---
