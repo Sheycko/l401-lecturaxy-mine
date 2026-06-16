@@ -113,7 +113,7 @@ Cada estudiante debe:
 
 ### Radar XY
 
-![Radar](capturas/radar.png)
+![Radar](capturas/radar2.png)
 
 ### Joystick XY
 
