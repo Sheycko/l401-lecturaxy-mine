@@ -26,22 +26,6 @@
     font-weight:bold;
 }
 
-#menu{
-    margin:20px;
-}
-
-#menu a{
-    padding:12px 35px;
-    margin:8px;
-    text-decoration:none;
-    color:white;
-    font-weight:bold;
-    border:2px solid white;
-    border-radius:12px;
-    background:#4c1d95;
-    box-shadow:0px 0px 12px white;
-}
-
 #panel{
     background:white;
     width:560px;
@@ -89,6 +73,7 @@
     padding-top:55px;
 }
 
+/* Q1 ROJO */
 #q1{
     background-color:#ef4444;
     {% if ejeX > 0 and ejeY > 0 %}
@@ -98,6 +83,7 @@
     {% endif %}
 }
 
+/* Q2 AZUL */
 #q2{
     background-color:#3b82f6;
     {% if ejeX < 0 and ejeY > 0 %}
@@ -107,6 +93,7 @@
     {% endif %}
 }
 
+/* Q3 VERDE */
 #q3{
     background-color:#22c55e;
     {% if ejeX < 0 and ejeY < 0 %}
@@ -116,6 +103,7 @@
     {% endif %}
 }
 
+/* Q4 AMARILLO */
 #q4{
     background-color:#eab308;
     {% if ejeX > 0 and ejeY < 0 %}
@@ -134,12 +122,6 @@
 <p id="subtitulo">Evaluación 4.2 - Desarrollo de Software para Hardware</p>
 
 <p id="nombre">Alumno: Benjamín Valdebenito</p>
-
-<div id="menu">
-<a href="/">INICIO</a>
-<a href="/radar">RADAR</a>
-<a href="/joystick">JOYSTICK</a>
-</div>
 
 <div id="panel">
 
